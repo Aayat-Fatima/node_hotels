@@ -1,0 +1,4 @@
+# ignores node_modules directly
+node_modules/
+
+# other entries
